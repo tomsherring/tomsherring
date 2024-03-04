@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 **[See Projects](https://github.com/[tomsherring]?tab=repositories)**
 
-![Profile Image][(your-profile-image.png](https://github.com/tomsherring/tomsherring/assets/64788094/0a8de172-76f4-4eb3-9040-c7de72d1fc31))
+![Tom Sherring](https://github.com/tomsherring/tomsherring/assets/64788094/5106f25b-8bd6-4093-8e77-221c24c0f30b)
+
 
 ### About Me
 * My name is Tom. I am a driven, results-oriented Junior Data Scientist with a recent background in hospitality management. My 
